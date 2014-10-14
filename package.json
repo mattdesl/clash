@@ -1,0 +1,43 @@
+{
+  "name": "clash",
+  "version": "1.0.0",
+  "description": "css class experiments",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "crypto": "0.0.3",
+    "css": "^2.1.0",
+    "events": "^1.0.2",
+    "hash-file": "^0.1.0",
+    "inherits": "^2.0.1",
+    "insert-css": "^0.2.0",
+    "js-string-escape": "^1.0.0",
+    "loader-utils": "^0.2.5",
+    "mixes": "^1.0.3",
+    "postcss": "^2.2.5",
+    "rework": "^1.0.1",
+    "rework-plugin-function": "^1.0.1",
+    "rework-visit": "^1.0.0",
+    "shorthash": "0.0.2",
+    "static-module": "^1.0.0",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/clash.git"
+  },
+  "homepage": "https://github.com/mattdesl/clash",
+  "bugs": {
+    "url": "https://github.com/mattdesl/clash/issues"
+  }
+}

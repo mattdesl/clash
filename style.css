@@ -1,0 +1,25 @@
+label {
+	color: green;
+}
+
+p.button.foo:hover.blah, p.foo {
+	font-size: 20px;
+}
+
+.button {
+	color: blue;
+}
+
+.button:hover {
+	color: red;	
+}
+
+.button::after {
+	display: block;
+	width: 20px;
+	height: 10px;
+}
+
+.hide {
+	display: none;
+}

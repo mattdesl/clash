@@ -1,0 +1,25 @@
+label {
+	color: green;
+}
+
+p._clash_button._clash_foo:hover._clash_blah, p._clash_foo {
+	font-size: 20px;
+}
+
+._clash_button {
+	color: blue;
+}
+
+._clash_button:hover {
+	color: red;	
+}
+
+._clash_button::after {
+	display: block;
+	width: 20px;
+	height: 10px;
+}
+
+._clash_hide {
+	display: none;
+}
